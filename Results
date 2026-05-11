@@ -1,0 +1,6 @@
+
+├── confusion_matrix.png
+├── accuracy_graph.png
+├── loss_curve.png
+├── classification_report.txt
+└── evaluation_metrics.csv
