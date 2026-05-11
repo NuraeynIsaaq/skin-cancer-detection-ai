@@ -1,7 +1,5 @@
-# Skin-cancer-detection-ai
-
-
 # AI-Powered Skin Cancer Detection System
+
 ## Overview
 Healthcare AI project using deep learning and neuroevolution to classify skin lesions.
 
