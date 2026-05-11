@@ -1,0 +1,7 @@
+images/
+│
+├── system_architecture.png
+├── sample_predictions.png
+├── dataset_examples.png
+├── gradcam_example.png
+└── app_screenshot.png
